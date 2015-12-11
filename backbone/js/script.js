@@ -2,7 +2,7 @@
 // Model
 var MyModel = Backbone.Model.extend({
 	method: function() {
-		console.log('Hello Model!!');
+		console.log('BACKBORN.JS');
 	}
 });
 var myModel = new MyModel();
